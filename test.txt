@@ -1,5 +1,11 @@
 Git is a distributed version control systemA.
 Git is free software for GPLA.
 BBBB
+<<<<<<< HEAD
 master
 ccccc
+=======
+CC
+dev
+FFFF
+>>>>>>> dev
